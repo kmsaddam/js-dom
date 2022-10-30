@@ -25,8 +25,32 @@
 // console.log(linkSingle);
 
 
-let list = document.querySelectorAll('ol li');
-//console.log(list);
-list.forEach(item => {
-    console.log(item);
-});
+// let list = document.querySelectorAll('ol li');
+// //console.log(list);
+// list.forEach(item => {
+//     console.log(item);
+// });
+
+// let oddList = document.querySelectorAll('li:nth-child(odd)');
+// //console.log(list);
+// oddList.forEach(item => {
+//     console.log(item);
+//     item.style.background = "red";
+//     item.style.color = "white";
+//     item.style.padding = "10px";
+// });
+
+
+// let evenList = document.querySelectorAll('li:nth-child(even)');
+// //console.log(list);
+// evenList.forEach(item => {
+//     console.log(item);
+//     item.style.background = "black";
+//     item.style.color = "white";
+//     item.style.padding = "10px";
+// });
+
+
+
+
+
